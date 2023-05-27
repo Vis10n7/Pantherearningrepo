@@ -6,18 +6,18 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🔹𝘔𝘺 𝘕𝘢𝘮𝘦: {}
-👨‍💻 𝘊𝘳𝘦𝘢𝘵𝘰𝘳 : <a href='https://t.me/zsbhere'>𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』</a>
+👨‍💻 𝘊𝘳𝘦𝘢𝘵𝘰𝘳 : <a href='https://t.me/Vis10n7'>Vision 『🇮🇳』</a>
 📚 𝘓𝘪𝘣𝘳𝘢𝘳𝘺: <a href='https://docs.pyrogram.org/'>𝘗𝘺𝘳𝘰𝘨𝘳𝘢𝘮</a>
 🎙️ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦: <a href='https://www.python.org/download/releases/3.0/'>𝘗𝘺𝘵𝘩𝘰𝘯 3</a>
 ☁️ 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦: <a href='https://www.mongodb.com/'>𝘔𝘰𝘯𝘨𝘰𝘋𝘉</a>
 📡 𝘚𝘦𝘳𝘷𝘦𝘳: <a href='https://Render.com/'>𝘙𝘦𝘯𝘥𝘦𝘳</a>
-📺 𝘑𝘰𝘪𝘯 :- @CornerOfficial </b>"""
+📺 𝘑𝘰𝘪𝘯 :- @i24x7Update </b>"""
 
     SOURCE_TXT = """<b> 𝘕𝘰𝘵𝘦:
 - 𝘖𝘧𝘧𝘤𝘰𝘶𝘳𝘴𝘦 𝘪𝘵𝘴 𝘢𝘯 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘣𝘶𝘵 𝘮𝘺 𝘰𝘸𝘯𝘦𝘳 𝘱𝘶𝘵 𝘴𝘰𝘮𝘦 𝘦𝘧𝘧𝘰𝘳𝘵𝘴 𝘢𝘯𝘥 𝘱𝘳𝘦𝘤𝘪𝘰𝘶𝘴 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘦 𝘮𝘰𝘳𝘦 𝘱𝘳𝘦𝘤𝘪𝘰𝘶𝘴.
-- 𝘉𝘶𝘺 𝘛𝘩𝘪𝘴 𝘌𝘥𝘪𝘵𝘦𝘥 𝘙𝘦𝘱𝘰 - <a href="https://t.me/zsbhere">𝘋𝘮 𝘮𝘦 .</a>
+- 𝘉𝘶𝘺 𝘛𝘩𝘪𝘴 𝘌𝘥𝘪𝘵𝘦𝘥 𝘙𝘦𝘱𝘰 - <a href="https://t.me/Vis10n7">𝘋𝘮 𝘮𝘦 .</a>
 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳:
-- <a href="https://t.me/zsbhere">𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』</a></b>"""
+- <a href="https://t.me/Vis10n7">Vision『🇮🇳』</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/CornerOfficial)</code>
+<code>[Button Text](buttonurl:https://t.me/i24x7Update)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -148,9 +148,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟs ]───⍟
     
-• 𝘕𝘢𝘮𝘦 : 𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』 
-• 𝘜𝘴𝘦𝘳𝘯𝘢𝘮𝘦 : @zsbhere
-• 𝘗𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵 𝘋𝘮 𝘓𝘪𝘯𝘬 : <a href='t.me/zsbhere'>𝘊𝘭𝘪𝘤𝘬 𝘏𝘦𝘳𝘦</a></b>"""
+• 𝘕𝘢𝘮𝘦 : Vision『🇮🇳』 
+• 𝘜𝘴𝘦𝘳𝘯𝘢𝘮𝘦 : @Vis10n7
+• 𝘗𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵 𝘋𝘮 𝘓𝘪𝘯𝘬 : <a href='t.me/Vis10n7'>𝘊𝘭𝘪𝘤𝘬 𝘏𝘦𝘳𝘦</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -196,15 +196,15 @@ Nᴀᴍᴇ - {}"""
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://tnshort.net/ref/Zafar12> Tɴsʜᴏʀᴛ.Nᴇᴛ</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href=https://ziplinker.net/ref/NikhilVishwa> Zplinker.Nᴇᴛ</a> [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
-›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Aboutme_AlluArjunBot/85>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a>.
+›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/VisionBAckUp/330>Tutorial</a>.
 
 ➥ ᴛʜɪꜱ ʙᴏᴛ ғʀᴇᴇ ғᴏʀ ᴀʟʟ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ғʀᴇᴇ ᴏғ ᴄᴏꜱᴛ.
 
 ➥ᴅᴏɴ'ᴛ ᴡᴀɪᴛ ᴀɴʏ ʟᴏɴɢᴇʀ ᴛᴏ ꜱᴛᴀʀᴛ ᴇᴀʀɴɪɴɢ ᴍᴏɴᴇʏ ғʀᴏᴍ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ. ᴀᴅᴅ ᴏᴜʀ ʙᴏᴛ ᴛᴏᴅᴀʏ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.</b>"""
     CAPTION = """
-<b>📂 𝘍𝘪𝘭𝘦 𝘕𝘢𝘮𝘦 : </b> <code>{file_name}</code>"""
+<b>📂 𝘍𝘪𝘭𝘦 𝘕𝘢𝘮𝘦 : @i24x7Update </b> <code>{file_name}</code>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
