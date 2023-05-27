@@ -233,7 +233,7 @@ async def next_page(bot, query):
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("« ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ »", url=f"https://t.me/how_to_dwnload/21")
+        InlineKeyboardButton("« ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ »", url=f"https://t.me/i24x7Update/431")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -346,7 +346,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("« ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ »", url=f"https://t.me/how_to_dwnload/21")
+            InlineKeyboardButton("« ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ »", url=f"https://t.me/i24x7Update/431")
         ])
 
         if offset != "":
@@ -702,7 +702,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                            ],[
-                              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/owner_here_bot")
+                              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Vis10n7")
                              ]
                             ]
                         )
@@ -753,11 +753,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         if IS_VERIFY and not await check_verification(client, query.from_user.id):
             btn = [[
                 InlineKeyboardButton("Vᴇʀɪғʏ⚡", url=await get_token(client, query.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=", file_id)),
-InlineKeyboardButton("💠ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ💠",url="https://t.me/how_to_dwnload/22")
+InlineKeyboardButton("💠ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ💠",url="https://t.me/i24x7Update/431")
                   ]]
             await client.send_message(
                 chat_id=query.from_user.id,
-                text="<b>💠Nᴏᴛᴇ :- ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ғɪʟᴇ ᴀᴄᴄᴇs ᴜɴᴛɪʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡʜɪᴄʜ ɪs ᴀғᴛᴇʀ 2 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ⚡ \n\nঅনুগ্রহ করে ᴠᴇʀɪғʏ করুন এবং 2 ঘণ্টার জন্য সব ফাইল নিন বাধাহীন ভাবে⚡ \n\nकृपया ᴠᴇʀɪғʏ करें और अगले ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ तक असीमित फ़ाइल एक्सेस प्राप्त करें जो अब से 2 घंटे बाद है⚡</b>",
+                text="<b>💠Nᴏᴛᴇ :- ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ғɪʟᴇ ᴀᴄᴄᴇs ᴜɴᴛɪʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡʜɪᴄʜ ɪs ᴀғᴛᴇʀ 2 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ⚡️ \n Ek BAar Verify karne ke baad sara file direct milega aapko 2hrs tak⚡️</b>",
                 protect_content=True if ident == 'checksubp' else False,
                 disable_web_page_preview=True,
                 parse_mode=enums.ParseMode.HTML,
@@ -775,7 +775,7 @@ InlineKeyboardButton("💠ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ💠",url="https://t.me/
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/owner_here_bot")
+                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Vis10n7")
                  ]
                 ]
             )
@@ -1165,7 +1165,7 @@ InlineKeyboardButton("💠ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ💠",url="https://t.me/
         )
     elif query.data == "aadiearn":
         buttons = [[
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ', url='t.me/owner_here_bot')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ', url='t.me/Vis10n7')
         ],[
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏꜱᴇ ↻', callback_data='close_data')
